@@ -1,0 +1,18 @@
+> init
+<<<
++ supercoolfile.txt wug.txt
+> add supercoolfile.txt
+<<<
+> commit "Added a super cool file"
+<<<
+> branch a
+<<<
+> branch b
+<<<
+> branch c
+<<<
+> branch d
+<<<
++ anothersupercoolfile.txt notwug.txt
+> add anothersupercoolfile.txt
+<<<
