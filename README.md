@@ -2,6 +2,16 @@
 
 Gitlet is a simple version-control system that is a backup system for related collections of files just like GitHub!
 
+## Versions
+
+The current stable version of Gitlet is v1(v1 Branch).
+
+Versions(branches):
+
+main is for current mainstream development.
+
+v1 is the current stable release with six commands of Gitlet.
+
 ## The function It can provide 
 
 ### 1. init
